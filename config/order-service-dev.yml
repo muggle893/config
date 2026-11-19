@@ -2,4 +2,4 @@ data:
   env: 'order-service-devabc'
 mysql:
  username: 'root'
- password: '123456'
+ password: '{cipher}e3a68725e3ac28df04f818626341cf37d0d8214bb5ed3bd6a3765491f3aa7fc9'
