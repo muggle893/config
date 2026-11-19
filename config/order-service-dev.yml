@@ -2,4 +2,4 @@ data:
   env: 'order-service-devabc'
 mysql:
  username: 'root'
- password: '{cipher}e3a68725e3ac28df04f818626341cf37d0d8214bb5ed3bd6a3765491f3aa7fc9'
+ password: '{cipher}AQCClm5tAgV7iVAxk+kQzlNbpVgyvWkbjJ2R/TE9ovcPSsReu6VDwCFjkwpt3xG6fzlpyiaAa9V91H5H+9et2ymBN6z898RaDKqJk7LhJEJ9z8eA4/1g5bOPkyA36Fo9b3jQCN/+oHqQsLcXffGpLBk4WIrl4qeduU8IqdSEF/XUNZ1kqD/3j9Izkw2+tdMcN5w2NFRJOWTP4s/lktQHwlty0zDUnryiaHU22CBzJalElYq5Z0ZQarU2GZoUafjftgl0Qw3d9XX8qEPQQX+vtJx/W/2Z/JvTgZa+Me+mnccwhm4KpWbz2Z9Bakmn7sW/8jvyhkV5QLSfmmQq/qSJyvKractYRZLNnP1UiDuadkbcOnCYQpFjt+knhvUKp0v7VUY='
